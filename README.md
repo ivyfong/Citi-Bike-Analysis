@@ -18,12 +18,6 @@ Citi Bike Trip Data: https://www.citibikenyc.com/system-data
 Citi Bike Analysis Story: https://public.tableau.com/profile/ivy4166#!/vizhome/CitiBikeAnalysis_15833838656860/CitiBikeAnalysisStory2019
 
 ## **Screenshots:**
-
-Usage by Season
 ![screenshot1.jpg](Images/Tableau_Screenshot1.JPG)
-
-Usage by User Type
 ![screenshot2.jpg](Images/Tableau_Screenshot2.JPG)
-
-Most Popular Starting and Ending Stations
 ![screenshot3.jpg](Images/Tableau_Screenshot3.JPG)
