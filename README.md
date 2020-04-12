@@ -14,7 +14,7 @@ Tableau
 ## **Data Source:**
 Citi Bike Trip Data: https://www.citibikenyc.com/system-data
 
-## **Tableau Public Story:**
+## **Tableau Story Link:**
 https://public.tableau.com/profile/ivy4166#!/vizhome/CitiBikeAnalysis_15833838656860/CitiBikeAnalysisStory2019
 
 ## **Screenshots:**
