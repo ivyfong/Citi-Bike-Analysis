@@ -3,7 +3,7 @@
 ## **Objective:**
 The objective of this project is to use Tableau to build interactive dashboards to present an analysis of New York Citi Bike Program trip data from 2019. The datasets used contain information on start and end time and date, start and end station name, station ID, station longitude and latitude, user type (subscriber vs. customer), user gender, and more.
 
-The following interactive dashboards are presented as part of a Tableau story:
+The following interactive dashboards were presented as part of a Tableau story:
 * Usage by Season: Summer vs. Winter.
 * Usage by User Type: Subscribers vs. Customers.
 * Most Popular Starting and Ending Stations.
