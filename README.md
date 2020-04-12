@@ -14,8 +14,8 @@ The following interactive dashboards were presented as part of a Tableau story:
 ## **Data Source:**
 Citi Bike Trip Data: https://www.citibikenyc.com/system-data
 
-## **Tableau Public Link:**
-Citi Bike Analysis Story: https://public.tableau.com/profile/ivy4166#!/vizhome/CitiBikeAnalysis_15833838656860/CitiBikeAnalysisStory2019
+## **Tableau Public Story:**
+https://public.tableau.com/profile/ivy4166#!/vizhome/CitiBikeAnalysis_15833838656860/CitiBikeAnalysisStory2019
 
 ## **Screenshots:**
 ![screenshot1.jpg](Images/Tableau_Screenshot1.JPG)
