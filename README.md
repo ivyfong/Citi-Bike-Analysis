@@ -9,7 +9,7 @@ The following interactive dashboards were presented as part of a Tableau story:
 * Most Popular Starting and Ending Stations.
 
 ## **Tools:**
-1.	Tableau
+Tableau
 
 ## **Data Source:**
 Citi Bike Trip Data: https://www.citibikenyc.com/system-data
